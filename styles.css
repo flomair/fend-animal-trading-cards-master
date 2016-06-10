@@ -33,3 +33,7 @@
      font-style: normal;
      font-weight:bold;
 }
+.citing {
+  /* Move the superscripted text up */
+  font-size:6px;
+}
